@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "H:\\Android\\RobootX\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\answer_bubble.9.png",
+        "source": "H:\\Android\\RobootX\\app\\src\\main\\res\\drawable-hdpi\\answer_bubble.9.png"
+    },
+    {
+        "merged": "H:\\Android\\RobootX\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_voice_search_normal.png",
+        "source": "H:\\Android\\RobootX\\app\\src\\main\\res\\drawable-hdpi\\btn_voice_search_normal.png"
+    },
+    {
+        "merged": "H:\\Android\\RobootX\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\asker_bubble.9.png",
+        "source": "H:\\Android\\RobootX\\app\\src\\main\\res\\drawable-hdpi\\asker_bubble.9.png"
+    },
+    {
+        "merged": "H:\\Android\\RobootX\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "H:\\Android\\RobootX\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "H:\\Android\\RobootX\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bottom_bar.png",
+        "source": "H:\\Android\\RobootX\\app\\src\\main\\res\\drawable-hdpi\\bottom_bar.png"
+    },
+    {
+        "merged": "H:\\Android\\RobootX\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_voice_search_pressed.png",
+        "source": "H:\\Android\\RobootX\\app\\src\\main\\res\\drawable-hdpi\\btn_voice_search_pressed.png"
+    }
+]

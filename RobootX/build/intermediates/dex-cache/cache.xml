@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\admin\.gradle\caches\2.14.1\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="H:\Android\RobootX\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.3.1_0933dd59b040b9d18881275e26c2347c7ec83fc9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\Android\RobootX\app\libs\Sunflower.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="777dc2d522d26febb6983b407de3a4e8bfbe4e02">
+        <dex dex="H:\Android\RobootX\app\build\intermediates\transforms\dex\debug\folders\1000\2\Sunflower_5119b9dcdd7822397eb4b398140d99d6a2088838\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\Android\RobootX\app\libs\Msc.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2f592bfdb1dd7694fc715847747396aa2f8d8cb">
+        <dex dex="H:\Android\RobootX\app\build\intermediates\transforms\dex\debug\folders\1000\2\Msc_c8789044cc22a509b96bdef87b4941e4290f5753\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\admin\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="H:\Android\RobootX\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_fd34790975d1fd8f5d5a880d0addf1435fddc7d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\Android\RobootX\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="96574913cf4d14e8ac80c9c18686ab53c2f694df">
+        <dex dex="H:\Android\RobootX\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_96c969d734df5d958a259314d4a83a5ed8ba3ab1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\Android\RobootX\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="600931673950fe5594e7042b08367989d9c4eec4">
+        <dex dex="H:\Android\RobootX\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0b83acc472ee5794fba4a7bb6bc0892c1c770f92\classes.dex" />
+    </item>
+
+</items>

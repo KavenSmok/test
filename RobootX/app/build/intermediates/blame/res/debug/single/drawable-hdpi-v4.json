@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "H:\\Android\\RobootX\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p4.jpg",
+        "source": "H:\\Android\\RobootX\\app\\src\\main\\res\\drawable-hdpi\\p4.jpg"
+    },
+    {
+        "merged": "H:\\Android\\RobootX\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p2.jpg",
+        "source": "H:\\Android\\RobootX\\app\\src\\main\\res\\drawable-hdpi\\p2.jpg"
+    },
+    {
+        "merged": "H:\\Android\\RobootX\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\m.jpg",
+        "source": "H:\\Android\\RobootX\\app\\src\\main\\res\\drawable-hdpi\\m.jpg"
+    },
+    {
+        "merged": "H:\\Android\\RobootX\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p1.jpg",
+        "source": "H:\\Android\\RobootX\\app\\src\\main\\res\\drawable-hdpi\\p1.jpg"
+    },
+    {
+        "merged": "H:\\Android\\RobootX\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p3.jpg",
+        "source": "H:\\Android\\RobootX\\app\\src\\main\\res\\drawable-hdpi\\p3.jpg"
+    }
+]

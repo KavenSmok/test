@@ -1,0 +1,7 @@
+#Sat Nov 19 22:52:10 IRKT 2016
+base.0=H\:\\Android\\RobootX\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_96c969d734df5d958a259314d4a83a5ed8ba3ab1
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=H\:\\Android\\RobootX\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_0b83acc472ee5794fba4a7bb6bc0892c1c770f92\\classes.dex
+base.1=H\:\\Android\\RobootX\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_0b83acc472ee5794fba4a7bb6bc0892c1c770f92
+file.0=H\:\\Android\\RobootX\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_96c969d734df5d958a259314d4a83a5ed8ba3ab1\\classes.dex
